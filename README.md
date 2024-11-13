@@ -6,5 +6,5 @@ After running `npm install`, create an `.env` file in the project root and add t
 - `MYSQL_HOST`= localhost
 - `MYSQL_USER`= root
 - `MYSQL_PASSWORD`= "Replace with your password"
-- `MYSQL_DATABASE`= "mysqlpractice"
+- `MYSQL_DATABASE`= "team_mates"
 - `PORT`= 4000
